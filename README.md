@@ -22,4 +22,7 @@ I like keeping myself busy.
 
 - 🖥️ [My Portfolio Site](https://endermansupreme.github.io/endernet/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EndermanSUPREME&show_icons=true&locale=en" alt="EndermanSUPREME" /></p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arizotaz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="top_langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EndermanSUPREME&show_icons=true&locale=en&theme=chartreuse-dark" alt="gh_stats" />
+</div>
